@@ -1,5 +1,5 @@
 return {
-    totalcash = 2750000,
+    totalcash = 2790000,
     codes = {
         "TRADEME!",
         "DAUP",

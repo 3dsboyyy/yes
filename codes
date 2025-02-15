@@ -1,5 +1,5 @@
 return {
-    totalcash = 3190000,
+    totalcash = 3690000,
     codes = {
         "TRADEME!",
         "DAUP",
@@ -13,5 +13,7 @@ return {
         "2025",
         "Beary",
         "ShortCake"
+        "VALENTINES2025"
+        "BLOSSOM"
     }
 }
